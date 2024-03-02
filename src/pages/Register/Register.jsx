@@ -6,7 +6,7 @@ const Register = () => {
   return (
     <div>
       <h1>Cadastr-se para postar</h1>
-
+      <p>Crie seu usuário e compartilhe suas histórias</p>
       <form>
         <label>
           <span>Nome:</span>
